@@ -6,4 +6,3 @@ Create a broser extension that will collect  data from the user and only be sold
 - Store User Data safely.
 - Pay the user for the sale of their data.
 - Provide a safe way for broswing the internet.
-this is a test
